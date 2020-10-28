@@ -1,2 +1,2 @@
 # anishnair95.github.io
-The Guide to setup for competitive programming
+This is the repository for DS and Algo codes in C++
